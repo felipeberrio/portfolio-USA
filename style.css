@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cristian Berrio - Portfolio Intro</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="card">
+    <div class="header">
+      <img src="https://i.imgur.com/kONZkMe.png" alt="Cristian Berrio" />
+      <div class="info">
+        <h1>Cristian Berrio</h1>
+        <p>Food & Beverage Hospitality | Environmental & Civil Engineer</p>
+        <p>📞 (561) 232-1519 | 📧 cristianberrio95@gmail.com</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>About Me</h2>
+      <p>Experienced in food and beverage services at high-end locations like Mar-a-Lago and Hard Rock Stadium. Known for delivering excellent guest experiences and maintaining top service standards. Originally trained as an engineer in Colombia, now blending hospitality skills with technical discipline and professionalism.</p>
+    </div>
+
+    <div class="section">
+      <h2>Skills</h2>
+      <ul>
+        <li>Excellent communication and customer service</li>
+        <li>Multitasking and fast-paced adaptability</li>
+        <li>Attention to detail and teamwork</li>
+        <li>Mathematical knowledge for transactions</li>
+        <li>Advanced English, Native Spanish, Intermediate Portuguese</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Experience Highlights</h2>
+      <ul>
+        <li><strong>Mar-a-Lago Club</strong> – Bartender & Server (May 2024 - Apr 2025)</li>
+        <li><strong>Turtle Creek & Saint Andrews Club</strong> – Server (Jan - Dec 2024)</li>
+        <li><strong>Hillsboro Marriott</strong> – Bartender & Barback (Mar - May 2024)</li>
+        <li><strong>Hard Rock Stadium</strong> – Suite Attendant (May 2023 - Apr 2024)</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>References</h2>
+      <p>Wilson – Manager F&B (FLORIDA PROSTAFFING): (305) 351-6416</p>
+      <p>Alexander Perez – Manager F&B (SP FACILITY SERVICE): (786) 847-3877</p>
+    </div>
+
+    <div class="section">
+      <button id="downloadBtn">📄 Download Resume (PDF)</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
